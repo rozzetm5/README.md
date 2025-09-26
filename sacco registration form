@@ -1,0 +1,3 @@
+<form action="/submit" method="POST" id="saccoregistrationform">
+    <!-- Form elements go here -->
+</form>
